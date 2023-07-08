@@ -25,5 +25,10 @@
   </li>
 </ul>
 
-<h2>Connect with Me</h2>
-<a href="https://linkedin.com/in/tylerliu04">Linkedin</a>
+<h2>🤝🏻 Connect with Me</h2>
+
+[<img src="./linkedin.png" width="32px" />](https://linkedin.com/in/tylerliu04)
+
+
+
+
