@@ -1,6 +1,6 @@
 <h1>Hey, I'm Tyler!</h1>
 
-<p>I'm a 19 year old software engineer and computer science student from the Bay Area specializing in machine intelligence and full-stack development.
+<p>I'm a 20 year old software engineer and computer science student from the Bay Area specializing in machine intelligence and full-stack development.
   <br>   </br>
   I also love mathematics, especially the applications of linear algebra, and game development!
 </p>
