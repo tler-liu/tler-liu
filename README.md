@@ -1,8 +1,8 @@
 <h1>Hey, I'm Tyler!</h1>
 
-<p>I'm a 20 year old software engineer and computer science student from the Bay Area specializing in machine intelligence and full-stack development.
+<p>I'm a 20 year old software engineer and computer science student at Purdue specializing in machine intelligence and data science.
   <br>   </br>
-  I also love mathematics, especially the applications of linear algebra, and game development!
+  I also like thinking about statistical theory, it turns making logical decisions into a numbers game.
 </p>
 
 <h2>🧑🏻‍💻 Public Repositories</h2>
