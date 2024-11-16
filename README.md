@@ -17,7 +17,7 @@
   </li>
   <li>
     <a href="https://github.com/tler-liu/Quick-MP">Quick-MP</a>
-    -- Quick Math Practice, a math practice tool that uses real time data to provide students with targeted questions and solutions
+    -- A math practice tool that uses real time data to provide students with targeted questions and solutions
   </li>
 </ul>
 
