@@ -12,6 +12,10 @@
     -- A beautiful UI to showcase all of your clothes
   </li>
   <li>
+    <a href="https://github.com/tler-liu/BrainRot">BrainRot</a>
+    -- Implementation of Seq2Seq models to generate GenZ slang
+  </li>
+  <li>
     <a href="https://github.com/tler-liu/Quick-MP">Quick-MP</a>
     -- Quick Math Practice, a math practice tool that uses real time data to provide students with targeted questions and solutions
   </li>
