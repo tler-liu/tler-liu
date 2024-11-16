@@ -2,7 +2,7 @@
 
 <p>I'm a 20 year old software engineer and computer science student at Purdue specializing in machine intelligence and data science.
   <br>   </br>
-  I also like thinking about statistical theory, it turns making logical decisions into a numbers game.
+  I'm hardstuck V4 at the climbing gym even though I can do ~20 pullups and I think I developed tinnitus from listening to Dimash Kudaibergen 24/7.
 </p>
 
 <h2>🧑🏻‍💻 Public Repositories</h2>
