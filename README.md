@@ -9,7 +9,7 @@
 <ul>
   <li>
     <a href="https://github.com/tler-liu/Closetspace">Closetspace</a>
-    -- A beautiful UI to showcase all of your clothes
+    -- A content-based fashion recommender
   </li>
   <li>
     <a href="https://github.com/tler-liu/BrainRot">BrainRot</a>
