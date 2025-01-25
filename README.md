@@ -7,7 +7,7 @@
 <ul>
   <li>
     <a href="https://github.com/tler-liu/Closetspace">Closetspace</a>
-    -- A content-based fashion recommender
+    -- A content-based fashion recommender system inspired by vector databases
   </li>
   <li>
     <a href="https://github.com/tler-liu/BrainRot">BrainRot</a>
