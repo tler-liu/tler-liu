@@ -1,40 +1,17 @@
-<h1>Hey, I'm Tyler!</h1>
+# Hey, I'm Tyler!
 
-<p>I'm a 20 year old software engineer and computer science student at Purdue specializing in machine intelligence and data science.
-</p>
+I'm a 20-something-year-old software engineer and CS student @ Purdue with an interest in answering tough questions with machine learning.
 
-<h2>🧑🏻‍💻 Public Repositories</h2>
-<ul>
-  <li>
-    <a href="https://github.com/tler-liu/Closetspace">Closetspace</a>
-    -- A content-based fashion recommender system inspired by vector databases
-  </li>
-  <li>
-    <a href="https://github.com/tler-liu/BrainRot">BrainRot</a>
-    -- Implementation of Seq2Seq models to generate GenZ slang
-  </li>
-  <li>
-    <a href="https://github.com/tler-liu/Quick-MP">Quick-MP</a>
-    -- A math practice tool that uses real time data to provide students with targeted questions and solutions
-  </li>
-</ul>
+## 🧑🏻‍💻 Public Repositories
 
-<h2>🎮 Game Development Portfolio</h2>
-<ul>
-  <li>
-    <a href="https://tylerliu.itch.io/the-tale-of-ikenchay">The Tale of Ikenchay</a>
-    -- The Legend of Zelda reimagined, built in Unity
-  </li>
-  <li>
-    <a href="https://tylerliu.itch.io/sewer-skedaddle">Sewer Skedaddle</a>
-    -- A 2D platformer game where you, a shapeshifting cat, must escape a radioactive sewer
-  </li>
-</ul>
+- [Closetspace](https://github.com/tler-liu/Closetspace): A content-based fashion recommender system inspired by vector databases
+- [BrainRot](https://github.com/tler-liu/BrainRot): Implementation of Seq2Seq models to generate Gen Z slang
+- [Quick-MP](https://github.com/tler-liu/Quick-MP): A math practice tool that uses real time data to provide students with targeted questions and solutions
 
-<h2>🤝🏻 Connect with Me</h2>
+## 🎮 Game Development Portfolio
 
+- [The Tale of Ikenchay](https://tylerliu.itch.io/the-tale-of-ikenchay): The Legend of Zelda reimagined, built in Unity
+- [Sewer Skedaddle](https://tylerliu.itch.io/sewer-skedaddle): A 2D platformer game where you, a shapeshifting cat, must escape a radioactive sewer
+
+## 🤝🏻 Connect with Me
 [<img src="./linkedin.png" width="32px" />](https://linkedin.com/in/tylerliu04)
-
-
-
-
