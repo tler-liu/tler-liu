@@ -1,6 +1,6 @@
 # Hey, I'm Tyler!
 
-I'm a 20-something-year-old software engineer and CS student @ Purdue with an interest in answering tough questions with machine learning.
+I'm a 20-something-year-old software engineer and CS student @ Purdue. I'm interested in databases and machine learning!
 
 ## 🧑🏻‍💻 Public Repositories
 
